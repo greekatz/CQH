@@ -1,0 +1,14 @@
+torch
+torchvision
+
+scikit-learn
+numpy
+tqdm
+faiss-cpu
+pandas
+matplotlib
+seaborn
+tensorboard
+torchvision
+geoopt
+
